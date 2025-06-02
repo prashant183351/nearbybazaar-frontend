@@ -1,1 +1,1 @@
-# nearbybazaar-frondend
+# nearbybazaar-frontend
